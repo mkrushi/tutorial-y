@@ -1,0 +1,1353 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-order {
+    background-color: green;
+    height: 20%;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+.head {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.trying {
+    display: flex;
+    padding: 30px;
+    justify-content: left;
+}
+.trying a 
+{
+    padding: 15px;
+}
+/* Show the dropdown when hovered */
+.nav-item:hover .dropdown-menu {
+    display: block;
+}
+
+
+
+
+
+.hr-try {
+    transform: rotate(90deg);
+    border: 1px solid black;
+    width: 150px;
+    margin: auto;
+    margin-left: 0px;
+}
+
+.vl {
+    border-left: 2px solid black;
+    height: auto;
+}
+
+
+
+.img {
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+}
+
+.phone {
+    color: white;
+    height: 20vh;
+}
+
+.search {
+    height: 40px;
+    margin-left: 20px;
+}
+
+
+/*  */
+
+ 
+
+
+.second-container {
+    background-color: orange;
+    height: 35px;
+    width: 150px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 20px;
+}
+
+.get {
+    color: black;
+    font-size: 9px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.img-con {
+    display: flex;
+}
+
+.home {
+    background-color: green;
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    width: 75px;
+    text-align: center;
+
+}
+
+.com {
+    color: grey;
+    font-size: 17px;
+    font-weight: normal;
+}
+
+.second-con {
+    display: flex;
+    width: 100vh;
+}
+
+.company-logo {
+    height: 75px;
+    width: 175px;
+}
+
+.search-img {
+    height: 38px;
+    width: 30px;
+}
+
+.third-con {
+    background-image: url("https://cdn-hglcb.nitrocdn.com/fYQtHxhDfpnZxcrwYvXMtQFGQCsYHTYl/assets/images/optimized/rev-ffd3ebf/www.thomsondata.com/wp-content/uploads/2017/12/banner_home.jpg");
+    background-size: cover;
+    height: 60vh;
+    padding: 50px;
+}
+
+.fuel-head {
+    color: green;
+    font-family: "Sans-Serifns";
+    padding: 22px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+
+.unleash-para {
+    color: black;
+    font-size: 24px;
+    margin-left: 30px;
+}
+
+.button {
+    background-color: red;
+    height: 50px;
+    color: white;
+    width: 200px;
+    margin-left: 30px;
+    border: 0px;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.play-img {
+    height: 25px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.yes {
+    display: flex;
+}
+
+.para-1 {
+    color: black;
+    font-size: 26px;
+    margin-left: 15px;
+}
+
+.we-head {
+    color: green;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.we-img {
+    margin-left: 30px;
+    height: 60px;
+    width: 100px;
+    margin-bottom: 40px;
+}
+
+.we-img-17 {
+    margin-left: 100px;
+    height: 60px;
+    width: 100px;
+    margin-bottom: 40px;
+}
+
+.we-img-con {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.gdpr-img {
+    height: 40%;
+    margin-top: 50px;
+    width: 50%;
+}
+
+.gdpr-con {
+    background-color: #2b825f;
+    margin-top: 50px;
+    text-align: center;
+    width: 50%;
+}
+
+.one-stop-con {
+    background-image: url("https://cdn-hglcb.nitrocdn.com/fYQtHxhDfpnZxcrwYvXMtQFGQCsYHTYl/assets/images/optimized/rev-ffd3ebf/www.thomsondata.com/wp-content/uploads/2022/01/gdpr-home-banner.jpg");
+    height: 23vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.one-stop-head {
+    color: white;
+    text-align: end;
+    font-size: 30px;
+    margin-top: 30px;
+
+}
+
+.one-stop-para {
+    color: white;
+    text-align: end;
+    font-size: 16px;
+}
+
+.experts-button {
+    background-color: red;
+    color: white;
+    border: 0px;
+    height: 75px;
+    font-family: "Roboto";
+    text-align: end;
+}
+
+
+.why-choose-img {
+    height: 50px;
+    width: 50px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.card {
+    text-shadow: 50px;
+    height: 200px;
+    width: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.card-head {
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.card-para {
+    margin-left: 30px;
+}
+
+.main-card {
+    display: flex;
+}
+
+.main-card-one {
+    display: flex;
+    margin-top: 30px;
+}
+
+.submit-con {
+    background-image: url("https://cdn-hglcb.nitrocdn.com/fYQtHxhDfpnZxcrwYvXMtQFGQCsYHTYl/assets/images/optimized/rev-ffd3ebf/www.thomsondata.com/wp-content/uploads/2019/04/Landingpage-banner-about-us.jpg");
+    width: 100%;
+    height: 45vh;
+    align-items: center;
+}
+
+.submit-head {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 48px;
+}
+
+.input-card {
+    background-color: #09520d;
+    box-shadow: 0 20px 10px 0 rgba(0, 0, 0, 0.2), 0 20px 20px 0 rgba(0, 0, 0, 0.2);
+    width: 85%;
+    height: 17vh;
+    padding: 40px;
+    margin-left: 80px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.ser {
+    height: 50px;
+    width: 150px;
+    margin-left: 10px;
+}
+
+.quote-button {
+    background-color: red;
+    height: 50px;
+    width: 180px;
+    margin-left: 10px;
+    color: white;
+    border: 0px;
+}
+
+.tech-insights-con {
+    display: flex;
+}
+
+.tech-img {
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.tech-head {
+    color: green;
+    margin-top: 50px;
+}
+
+.tech-para {
+    color: black;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.ol {
+    list-style-type: square;
+    color: green;
+}
+
+.li-con {
+    display: flex;
+    margin-right: 30px;
+}
+
+.he {
+    color: black;
+    font-size: 12px;
+}
+
+.learn-button {
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 300px;
+    border: 0px;
+    margin-top: 20px;
+}
+
+.custom-card {
+    background-image: url("https://cdn-hglcb.nitrocdn.com/fYQtHxhDfpnZxcrwYvXMtQFGQCsYHTYl/assets/images/optimized/rev-ffd3ebf/www.thomsondata.com/wp-content/uploads/2017/12/customlist-background.jpg");
+    padding: 20px;
+    height: 30%;
+    width: 70%;
+}
+
+.custom-head {
+    color: white;
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.custom-para {
+    color: white;
+    font-weight: normal;
+    font-family: "Bree-Serif";
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.he-1 {
+    color: white;
+    list-style-type: square;
+}
+
+.li-con-1 {
+    display: flex;
+    margin-left: 30px;
+}
+
+.ol-1 {
+    margin-left: 50px;
+}
+
+.learn-button-1 {
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 300px;
+    border: 0px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.picture-card {
+    background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQW6bOrb1LCE8DZWBW3sMZVKyo5Ux4AaO3qln0lZoQOJQPWMCs6");
+    background-size: cover;
+    height: 480px;
+    width: 30%;
+    text-align: center;
+    flex-direction: column;
+
+}
+
+.custom-list-con {
+    display: flex;
+    flex-direction: row;
+}
+
+.play-img-1 {
+    margin-top: 200px;
+    height: 80px;
+    margin-left: 30px;
+}
+
+.tech-img-2 {
+    margin-top: 50px;
+    margin-left: 10px;
+    height: 80%;
+    width: 50%;
+}
+
+.case-study-con {
+    background-color: #2b825f;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.case-head {
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.case-para {
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    font-family: "Bree-Serif";
+    margin-top: 20px;
+}
+
+.com-head {
+    color: white;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.com-img {
+    margin-left: 100px;
+    height: 75%;
+    width: 50%;
+}
+
+.company-con {
+    display: flex;
+}
+
+.recent-head {
+    color: green;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.card-no-1 {
+    background-color: #bad2e3;
+    height: 350px;
+    width: 30%;
+    margin-left: 17px;
+    margin-top: 50px;
+    padding: 20px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.conversion-img {
+    height: 160px;
+    width: 200px;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.conversion-head {
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 22px;
+}
+
+.conversion-para {
+    color: grey;
+    margin-left: 28px;
+}
+
+.learn {
+    color: orange;
+    margin-left: 28px;
+    margin-bottom: 15px;
+}
+
+.recent-card-con {
+    display: flex;
+}
+
+.quote-con {
+    background-image: url("https://cdn-hglcb.nitrocdn.com/fYQtHxhDfpnZxcrwYvXMtQFGQCsYHTYl/assets/images/optimized/rev-ffd3ebf/www.thomsondata.com/wp-content/uploads/2022/01/thomsondata-bg-image.jpg");
+    background-size: cover;
+    height: 50vh;
+    margin-top: 25px;
+    padding: 25px;
+}
+
+.quote-head {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 28px;
+    font-size: 25px;
+
+}
+
+.quote-para {
+    color: white;
+    font-family: "Monospace";
+}
+
+.arrow {
+    color: white;
+    font-size: 70px;
+    font-family: "Monospace";
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.in {
+    margin-left: 18px;
+    height: 40px;
+}
+
+.text {
+    height: 50%;
+    width: 95%;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.quote-con {
+    display: flex;
+}
+
+.ex {
+    display: flex;
+    margin-top: 20px;
+}
+
+.click-btn {
+    background-color: orange;
+    color: white;
+    height: 30px;
+    width: 150px;
+    margin-top: 15px;
+    margin-left: 250px;
+    font-size: 12px;
+    border: 0px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.last-con {
+    background-color: #404752;
+    height: 50%;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+}
+
+.contact-head {
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.abacco-head {
+    color: white;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 28px;
+}
+
+.loc-img {
+    height: 20px;
+}
+
+.address-1 {
+    color: white;
+    margin-left: 10px;
+}
+
+.if {
+    display: flex;
+    margin-top: 22px;
+}
+
+.if-1 {
+    display: flex;
+    margin-top: 5px;
+}
+
+.follow {
+    color: white;
+    font-size: 18px;
+}
+
+.social-media {
+    height: 28px;
+    margin-left: 10px;
+}
+
+.contact-head-1 {
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-left: 80px;
+}
+
+.bb-img {
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.accept-head {
+    color: white;
+    font-size: 22px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.img-con-1 {
+    display: flex;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.img-1 {
+    height: 40px;
+    width: 40px;
+    margin-left: 10px;
+}
+
+.order-list {
+    color: grey;
+    list-style-type: circle;
+    margin-left: 50px;
+    margin-top: 28px;
+}
+
+.last-in {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.subcsribe {
+    background-color: skyblue;
+    color: white;
+    height: 50px;
+    width: 135px;
+    margin-top: 16px;
+    margin-left: 50px;
+    border: 0px;
+}
+
+.l-img {
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 80px;
+}
+
+.last-img {
+    display: flex;
+}
+
+.l-img-1 {
+    margin-left: 12px;
+    height: 80px;
+    margin-top: 20px;
+}
+
+.copy-rights-con {
+    background-color: #4f5359;
+}
+
+.nav-change {
+    display: flex;
+    align-items: flex-end;
+}
+
+.hr {
+    color: black;
+    font-weight: bold;
+}
+
+/*  */
+ 
+/*  */
+
+.hr-email-list
+{
+    background-color: rgba(231, 240, 231, 0.842);
+}
+ .email-nav
+ {
+    text-align: right;
+ }
+
+ .email-nav a
+ {
+    color: #09520d;
+ }
+
+.hr-heading
+{
+    color:#0c5e42ce;
+}
+.hr-list
+{
+    color: rgba(92, 90, 90, 0.849);
+}
+.hr-list b
+{
+    color: rgba(0, 0, 0, 0.658);
+}
+
+
+.form-container {
+    background-color:#0e855d;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 700px;
+    width: 120%;
+    margin-left: -20px;
+}
+h2 {
+    margin-top: 0;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.form-group textarea {
+    resize: vertical;
+    height: 100px;
+}
+.form-group input[type="submit"] {
+    background-color: #be9920;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 4px;
+}
+.form-group input[type="submit"]:hover {
+    background-color: #ebbd29c0;
+}
+
+.form-2
+{
+    display: flex;
+    
+}
+#company
+{
+    margin-left: 5px;
+}
+
+.form-h4
+{
+    text-align: center;
+    color: white;
+}
+.form-p{
+    text-align: center;
+    color: white;
+}
+.hr-form
+{
+    color: #09520d;
+    border: 1px solid green;
+    margin-top: 0px;
+}
+.hr-ul
+{
+    display: flex;
+    flex-direction: row;
+}
+.hr-ul .hr-list1
+{
+    color: rgba(92, 90, 90, 0.849);
+    margin-left: 130px;
+
+}
+/* mailing */
+
+.mailing
+{
+    margin-top: 40px;
+    padding-bottom: 20px;
+    background-color: rgba(221, 210, 208, 0.363);
+
+}
+.mail-h4
+{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    color:#0c5e42ce ;
+    font-weight: bold;
+}
+
+.mail-para
+{
+    color: gray;
+}
+
+.mail-para1
+{
+    color: gray;
+    margin-left: 80px;
+}
+.mail-para b
+{
+    color: rgba(0, 0, 0, 0.699);
+}
+.mailing .c-lev-tr1
+{
+    border: 2px solid rgba(128, 128, 128, 0.747);
+    color: #4f5359;
+    font-size: 16px;
+    background-color: white;
+}
+.mailing .c-lev-tr
+{
+    color: #4f5359;
+
+}
+.mailing a
+{
+    color: #095230;
+}
+.mail-ul
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.indu-h4
+{
+    text-align: center;
+    color:#0c5e42ce;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+
+/* needs */
+
+.needs
+{
+    margin-bottom: 50px;
+}
+.need-h5
+{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    color:#0c5e42ce;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+.need-heading
+{
+    text-align: center;
+    background-color: rgba(230, 227, 227, 0.849);
+    box-shadow: 4px 5px 10px rgba(128, 128, 128, 0.671);
+    padding: 16px;
+    width: 300px;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+
+.need-box
+{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.need-box1
+{
+    display: flex;
+    flex-direction: row;
+}
+
+
+ 
+.card-0
+{
+    border: 0.1px solid rgba(128, 128, 128, 0.349);
+    width: 200px;
+ 
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.card-0 .fa-solid{
+    font-size: 40px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #2b825f;
+}
+.card-0 .fa-regular 
+{
+    font-size: 40px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #2b825f;
+}
+.need-p
+{
+    text-align: center;
+    font-size: 15px;
+}
+.need-hr{
+    border: 1px solid red;
+    transform: rotate(90deg);
+    width: 290px;
+    margin-top: 200px;
+    margin-left: -90px;
+  }
+.need-btn
+{
+    margin-left: 40%;
+    margin-top: 10px;
+    background-color: red;
+    padding: 10px;
+    border: none;
+    border-radius: 7px;
+}
+.need-btn a
+{
+    text-decoration: none;
+    color: white;
+}
+.need-btn a:hover
+{
+    text-decoration: underline 2px;
+}
+
+
+
+/* customers love */
+
+.customers .container-fluid
+{
+    background-color: #21754b;
+}
+
+.container-fluid .customer-h3
+{
+   text-align: center;
+   color: white;
+   padding-top: 40px;
+}
+.customers .cards
+{
+    display: flex;
+    flex-direction: row;
+    padding: 60px;
+    padding-bottom: 40px;
+}
+
+.customers .cards .card
+{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    height: 320px;
+}
+.Customer-p
+{
+    text-align: center;
+}
+  
+
+ 
+
+
+
+/* Software Developers Mailing List */
+.mail-lists
+{
+    margin-top: 30px;
+}
+
+.mail-lists .container
+{
+    display: flex;
+    flex-direction: row;
+}
+.mails-h4
+{
+    color: #114d3ada;
+    font-weight: 400;
+
+}
+.mails .table
+{
+    border: 2px solid rgba(97, 90, 90, 0.548);
+    width: 520px;
+}
+.mail-tr
+{
+    border: 2px solid rgba(97, 90, 90, 0.486);
+    color: gray;
+
+}
+.mail-tr td
+{
+    width: 100px;
+}
+.mail-tr i
+{
+    color: #09520d;
+    font-size: 17px;
+}
+/* Available Job Titles: */
+.jobs
+{
+    margin-left: 50px;
+}
+.jobs .table
+{
+    width: 520px;
+    border: 2px solid rgba(97, 90, 90, 0.432);
+}
+.jobs-tr 
+{
+    border: 2px solid rgba(97, 90, 90, 0.39);
+    color: gray;
+}
+.jobs-tr i
+{
+    color: #09520d;
+}
+ 
+
+/* help */
+.help-desk
+{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-image: url(https://cdn-hglcb.nitrocdn.com/fYQtHxhDfpnZxcrwYvXMtQFGQCsYHTYl/assets/images/optimized/rev-53614a0/www.thomsondata.com/wp-content/uploads/2022/01/thomsondata-bg-image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.help-h4
+{
+    color: white;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+.help-desk .btn
+{
+    background-color: rgb(216, 136, 15);
+    padding: 15px;
+    width: 300px;
+}
+
+.help-desk .btn a
+{
+    color: white;
+}
+ 
+
+
+
+
+/* Verified-Data-Source */
+
+.Verified-Data-Source
+{
+    margin-top: 40px;
+
+}
+.Verified-Data-Source .veri-h4
+{
+    text-align: center;
+    color:#0c5e42ce;
+    font-weight: bold;
+    padding-top: 30PX;
+    padding-bottom: 30PX;
+}
+.veri-para
+{
+    color: gray;
+}
+.veri-para b
+{
+    color: #404752;
+}
+.veri-list
+{
+    display: flex;
+    flex-direction: row;
+    color: gray;
+}
+.veri-ul
+{
+    margin-left: 320px;
+    color: gray;
+}
+
+/* Why Choose Abacco tech C-level Executives List?  */
+
+.why-abaco
+{
+    margin-top: 40px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    background-color: rgba(204, 199, 198, 0.363);
+
+}
+.why-h4
+{
+    text-align: center;
+    color: #0c5e42ce;
+    font-weight: bold;
+    padding-bottom: 20px;
+
+}
+.why-para
+{
+    color: gray;
+}
+.why-para b
+{
+    color: #2e3136c0;
+}
+.why-ul
+{
+    display: flex;
+    flex-direction: row;
+}
+.why-para1
+{
+    color: gray;
+    margin-left: 80px;
+}
+/* benifits */
+
+.benifit
+{
+    margin-top: 40px;
+
+}
+.benifit h4
+{
+    text-align: center;
+    color: #0c5e42ce;
+    font-weight: bold;
+}
+
+ 
+.ben-ul
+{
+    display: flex;
+    flex-direction: row;
+    color: gray;
+}
+.ben-para
+{
+    color: gray;
+}
+.ben-para b
+{
+    color: #404752;
+}
+.ben-ul1
+{
+    margin-left: 120px;
+}
+
+/*  */
+
+.benifit-abacco ul b
+{
+    color: #404752;
+}
+
+ 
+
+.benifit-abacco
+{
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+
+.benifit-abacco h4
+{
+    text-align: center;
+    color: #0c5e42ce;
+    font-weight: bold;
+    padding-top: 30px;
+}
+.benif-ul
+{
+    display: flex;
+    flex-direction: row;
+    color: gray;
+}
+.benif-ul1
+{
+    margin-left: 80px;
+}
+
+
+/* touch */
+.touch
+{
+    margin-top: 30px;
+    background-color: rgba(207, 199, 197, 0.486);
+    padding-top: 20px;
+
+}
+.touch-h4
+{
+    text-align: center;
+    color: #0c5e42ce;
+    font-weight: bold;
+    padding-bottom: 25px;
+}
+
+.touch-para
+{
+    color:gray;
+}
+.touch-para b
+{
+    color:#404752;
+}
+.touch-para a
+{
+    color: #09520d;
+}
+
+
+
+
+/* Other C-level Executives Email List:  */
+
+.noting-crm-card .table
+{
+    border: 2px solid rgba(128, 128, 128, 0.377);
+    color: rgb(99, 98, 98);
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.noting-crm-card .table .tr-h
+{
+    border: 2px solid rgba(128, 128, 128, 0.377);
+    color: rgb(99, 98, 98);
+}
+
+.tr-h {
+    font-size: 14px;
+}
+.tr-h a
+{
+    color: #0c5e42ce;
+
+}
+.ic-1 {
+    color: black;
+    font-size: 10px;
+    width: 15px;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-right: 5px;
+    margin-top: 15px;
+}
+.cs-third-para
+{
+    text-align: center;
+    color: #0c5e42ce;
+}
+
